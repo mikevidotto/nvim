@@ -2,7 +2,7 @@ return {
 	"rebelot/kanagawa.nvim",
 	name = "kanagawa",
     require("kanagawa").setup({
-        compile = false,
+        compile = true,
         undercurl = true,
         commentStyle = {italic = true},
         functionStyle = {},
@@ -19,7 +19,7 @@ return {
         theme = "wave",
         background = {
             dark = "wave",
-            light = "lotus",
+            light = "wave",
         },
     }),
 	config = function()

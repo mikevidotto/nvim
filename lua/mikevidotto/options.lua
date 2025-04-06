@@ -30,5 +30,5 @@ vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "80"
 vim.opt.shell = "powershell"
-vim.opt.shellcmdflag="-command"
+vim.opt.shellcmdflag = "-command"
 vim.g.mapleader = " "
