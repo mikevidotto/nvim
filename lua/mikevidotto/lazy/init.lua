@@ -5,7 +5,8 @@ return {
         "rebelot/kanagawa.nvim",
         "theprimeagen/vim-be-good",
         "tamton-aquib/duck.nvim",
-        "saghen/blink.cmp"
+        "saghen/blink.cmp",
+        "epwalsh/obsidian.nvim",
    },
     "eandrju/cellular-automaton.nvim",
     "gpanders/editorconfig.nvim",
