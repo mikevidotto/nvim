@@ -32,3 +32,5 @@ vim.opt.colorcolumn = "80"
 vim.opt.shell = "powershell"
 vim.opt.shellcmdflag = "-command"
 vim.g.mapleader = " "
+
+vim.opt.conceallevel = 1
